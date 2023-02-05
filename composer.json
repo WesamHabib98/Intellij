@@ -18,6 +18,6 @@
     }
   },
   "scripts": {
-    "test": "./vendor/bin/phpunit"
+    "test": "C:\\Users\\wesam\\PhpstormProjects\\untitled\\Intellij\\PHP\\phpunit"
   }
 }
