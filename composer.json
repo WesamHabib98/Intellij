@@ -2,6 +2,7 @@
   "name": "my-project/my-php-library",
   "description": "This is a sample PHP library for my project",
   "type": "library",
+  "license": "proprietary",
   "authors": [
     {
       "name": "Wesam Habib",
