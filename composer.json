@@ -16,8 +16,6 @@
     "psr-4": {
       "MyProject\\": "C:\\Users\\wesam\\PhpstormProjects\\untitled\\Intellij"
     }
-  },
-  "scripts": {
-    "test": "C:\\Users\\wesam\\PhpstormProjects\\untitled\\Intellij\\Configruation\\phpunit-10.0.3.phar"
   }
+
 }
